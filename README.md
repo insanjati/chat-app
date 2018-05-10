@@ -9,7 +9,11 @@ A very simple chat application that built with websocket and socket.io library.
 
 ## How to Run
 1. Clone this repository to your local machine.
-2. Run the file via terminal:
+2. Install dependencies:
+```sh
+$ npm i
+```
+3. Run the file via terminal:
 ```sh
 $ npm start
 ```
